@@ -1,0 +1,15 @@
+D:\Batch2\.Net\Day5Practice\Day5Practice\bin\Release\net7.0\Day5Practice.exe
+D:\Batch2\.Net\Day5Practice\Day5Practice\bin\Release\net7.0\Day5Practice.deps.json
+D:\Batch2\.Net\Day5Practice\Day5Practice\bin\Release\net7.0\Day5Practice.runtimeconfig.json
+D:\Batch2\.Net\Day5Practice\Day5Practice\bin\Release\net7.0\Day5Practice.dll
+D:\Batch2\.Net\Day5Practice\Day5Practice\bin\Release\net7.0\Day5Practice.pdb
+D:\Batch2\.Net\Day5Practice\Day5Practice\obj\Release\net7.0\Day5Practice.csproj.AssemblyReference.cache
+D:\Batch2\.Net\Day5Practice\Day5Practice\obj\Release\net7.0\Day5Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch2\.Net\Day5Practice\Day5Practice\obj\Release\net7.0\Day5Practice.AssemblyInfoInputs.cache
+D:\Batch2\.Net\Day5Practice\Day5Practice\obj\Release\net7.0\Day5Practice.AssemblyInfo.cs
+D:\Batch2\.Net\Day5Practice\Day5Practice\obj\Release\net7.0\Day5Practice.csproj.CoreCompileInputs.cache
+D:\Batch2\.Net\Day5Practice\Day5Practice\obj\Release\net7.0\Day5Practice.dll
+D:\Batch2\.Net\Day5Practice\Day5Practice\obj\Release\net7.0\refint\Day5Practice.dll
+D:\Batch2\.Net\Day5Practice\Day5Practice\obj\Release\net7.0\Day5Practice.pdb
+D:\Batch2\.Net\Day5Practice\Day5Practice\obj\Release\net7.0\Day5Practice.genruntimeconfig.cache
+D:\Batch2\.Net\Day5Practice\Day5Practice\obj\Release\net7.0\ref\Day5Practice.dll
